@@ -1,0 +1,3 @@
+Unzip and use your supplied password
+Build the project and configure your ChatController with your JWT API Secret.
+Run and connect through to the Chat service
